@@ -11,20 +11,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
+  - title: "Talks"
     url: /talks/
 
-  - title: "Notes"
+  - title: "Teaching"
     url: /teaching/
 
   - title: "Portfolio"
     url: /portfolio/
 
+  - title: "Blog Posts"
+    url: /year-archive/
+
   - title: "CV"
-    url: /files/gph_CV.pdf
-    
-  - title: "Personal"
-      url: /year-archive/
-      
+    url: /files/cv.pdf
+
   - title: "Guide"
     url: /markdown/
