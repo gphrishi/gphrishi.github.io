@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "G.P Hrishikesh"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Physics Student"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Indian Institute of Science Education and Research Kolkata"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gph20ms207@iiserkol.ac.in" 
 
   # Academic websites
   academia         : # URL
